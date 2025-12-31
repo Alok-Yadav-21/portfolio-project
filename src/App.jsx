@@ -119,7 +119,7 @@ export default function Portfolio() {
                 </span>
               </h1>
               <h2 className="text-2xl sm:text-3xl text-slate-300 mb-6">
-                Data Scientist / AI Engineer
+                Aspiring Data Scientist | Full-Stack Developer | Business Analyst
               </h2>
               <p className="text-lg text-slate-400 mb-8 leading-relaxed">
                 AI Engineer with practical experience in Machine Learning, Data Science, and full-stack development. 
