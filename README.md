@@ -3,7 +3,7 @@
 My first personal portfolio site: a single-page, responsive showcase of my projects, experience and skills, built with React, Vite and Tailwind CSS and deployed on Vercel.
 
 **Live:** https://portfolio-project-mocha-five.vercel.app
-**Current portfolio:** [alok-portfolio-lyart.vercel.app](https://alok-portfolio-lyart.vercel.app) (Next.js, Groq-powered AI chatbot)
+**Current portfolio:** [alokyadav.live](https://alokyadav.live) (Next.js, Groq-powered AI chatbot)
 
 ---
 
@@ -33,4 +33,4 @@ npm run build      # production build in dist/
 
 **Alok Yadav** · AI/ML Engineer · MSc Data Science, Middlesex University London
 
-[Portfolio](https://alok-portfolio-lyart.vercel.app) · [LinkedIn](https://www.linkedin.com/in/yadavalokml) · [GitHub](https://github.com/Alok-Yadav-21)
+[Portfolio](https://alokyadav.live) · [LinkedIn](https://www.linkedin.com/in/yadavalokml) · [GitHub](https://github.com/Alok-Yadav-21)
