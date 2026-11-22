@@ -1,16 +1,36 @@
-# React + Vite
+# Portfolio (v1)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My first personal portfolio site: a single-page, responsive showcase of my projects, experience and skills, built with React, Vite and Tailwind CSS and deployed on Vercel.
 
-Currently, two official plugins are available:
+**Live:** https://portfolio-project-mocha-five.vercel.app
+**Current portfolio:** [mathtodata.com](https://mathtodata.com) (Next.js, TypeScript, LLM-powered chatbot)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Sections
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Hero** with links to GitHub, LinkedIn and email
+- **Projects:** Healthcare Analytics Platform, House Price Prediction, Surveillance Drone (national-level innovation entry), Voice Ingredient List Manager
+- **Experience:** Business Analyst at Lyrcon Solutions
+- **Education and achievements**
+- **Contact**
 
-## Expanding the ESLint configuration
+## Tech stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React · Vite · Tailwind CSS · Lucide icons · Vercel
+
+## Run locally
+
+```bash
+git clone https://github.com/Alok-Yadav-21/portfolio-project.git
+cd portfolio-project
+npm install
+npm run dev        # http://localhost:5173
+npm run build      # production build in dist/
+```
+
+## Author
+
+**Alok Yadav** · AI/ML Engineer · MSc Data Science, Middlesex University London
+
+[Portfolio](https://mathtodata.com) · [LinkedIn](https://www.linkedin.com/in/yadavalokml) · [GitHub](https://github.com/Alok-Yadav-21)
